@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Guardians as You Fall: Active Mode Transition for Safe Falling "
+date:   2023-05-01 21:21:53 +00:00
+image: /images/2023icra.gif
+categories: research
+authors: "<strong>Yikai Wang</strong>, Mengdi Xu, Guanya Shi, Ding Zhao"
+venue: "Submitted to ICRA 2024"
+website: https://sites.google.com/view/guardians-as-you-fall/
+arxiv: https://arxiv.org/abs/1705.05548
+code: https://github.com/wangyiji20/Fall_Recovery_control.git
+video: https://www.youtube.com/watch?v=e0ORrUjrncc
+---
+We proposed Guardians as You Fall (GYF), a safe falling/tumbling and recovery framework that can actively tumble and recover to stable modes to reduce damage in highly dynamic scenarios. The key idea of GYF is to adaptively traverse across different stable modes via active tumbling, before the robot shifts to irrecoverable poses. GYF offers a new perspective on safe falling and recovery in locomotion tasks, which potentially enables much more aggressive explorations of existing agile locomotion skills.
+
+I wrote a paper describing the details of a family of RGBD cameras, ASICs and algorithms produced by Intel. It was submitted and accepted to CCD 2017, a CVPR 2017 Workshop. My coauthors were all senior management at Intel and the paper was written to inform the academic community of issues, challenges and priorities in building stereoscopic depth cameras for production use. We highlight state-of-the-art performance on modern datasets, on certain metrics, along with establishing baselines for new datasets and evaluation metrics for depth cameras in general. 
+
