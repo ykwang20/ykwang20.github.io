@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Minimum Number of DoFs Required for the Robot to Keep Balance? "
-#date:   2023-05-01 21:21:53 +00:00
+date:   2023-10-01 21:21:53 +00:00
 image: /images/minimal-dof.gif
 categories: research
 #authors: "<strong>Yikai Wang</strong>, Mengdi Xu, Guanya Shi, Ding Zhao"

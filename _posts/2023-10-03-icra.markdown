@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Guardians as You Fall: Active Mode Transition for Safe Falling "
-date:   2023-05-01 21:21:53 +00:00
+date:   2023-09-01 21:21:53 +00:00
 image: /images/2023icra.gif
 categories: research
 authors: "<strong>Yikai Wang</strong>, Mengdi Xu, Guanya Shi, Ding Zhao"
