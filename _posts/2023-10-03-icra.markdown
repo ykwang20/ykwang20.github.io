@@ -7,7 +7,7 @@ categories: research
 authors: "<strong>Yikai Wang</strong>, Mengdi Xu, Guanya Shi, Ding Zhao"
 venue: "Submitted to ICRA 2024"
 website: https://sites.google.com/view/guardians-as-you-fall/
-arxiv: https://arxiv.org/abs/1705.05548
+arxiv: https://arxiv.org/abs/2310.04828
 code: https://github.com/ykwang20/Guardians_as_You_Fall
 video: https://www.youtube.com/watch?v=e0ORrUjrncc
 ---
