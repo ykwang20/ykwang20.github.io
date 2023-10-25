@@ -10,6 +10,7 @@ website: https://sites.google.com/view/guardians-as-you-fall/
 arxiv: https://arxiv.org/abs/2310.04828
 code: https://github.com/ykwang20/Guardians_as_You_Fall
 video: https://www.youtube.com/watch?v=e0ORrUjrncc
+finished: True
 ---
 We propose Guardians as You Fall (GYF), a safe falling/tumbling and recovery framework that can actively tumble and recover to stable modes to reduce damage in highly dynamic scenarios. The key idea of GYF is to adaptively traverse across different stable modes via active tumbling, before the robot shifts to irrecoverable poses. GYF offers a new perspective on safe falling and recovery in locomotion tasks, which potentially enables much more aggressive explorations of existing agile locomotion skills.
 

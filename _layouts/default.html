@@ -85,9 +85,15 @@
               {{post.authors}}
 
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y-%m" }}
+              <em>{{post.venue}}</em> <!-- {% if post.finished %}, {{ post.date | date: "%Y-%m" }}{% endif %} -->
 
               <br>
+              {% if post.workshop %}
+              
+              <em>{{post.workshop}}</em>
+
+              <br>
+              {% endif %}
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}
