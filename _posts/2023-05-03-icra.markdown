@@ -5,8 +5,7 @@ date:   2023-03-01 21:21:53 +00:00
 image: /images/amp-in-the-wild.gif
 categories: research
 authors: "<strong>Yikai Wang</strong>*, Zheyuan Jiang*, Jianyu Chen"
-venue: "Submitted to ICRA 2024"
-workshop: "Abridged in CoRL 2023 Workshop on Robot Learning in Athletics"
+venue: "CoRL 2023 Workshop on Robot Learning in Athletics"
 website: https://sites.google.com/view/adaptive-multiskill-locomotion
 arxiv: https://arxiv.org/abs/2304.10888
 #code: https://github.com/wangyiji20/Fall_Recovery_control.git
