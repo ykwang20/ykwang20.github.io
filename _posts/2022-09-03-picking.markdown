@@ -10,6 +10,8 @@ venue: "In progress"
 #arxiv: https://arxiv.org/abs/1705.05548
 #code: https://github.com/wangyiji20/Fall_Recovery_control.git
 video: https://youtu.be/1f3tiAeab8I
+finished: True
+
 ---
 Design and built a car that is capable of autonomous navigation, picking and storing certain yellow objects and unloading them in the designated area. Target recognition was accomplished by a monocular camera and image algorithms. Picking and unloading were accomplished with 3 parallel elastic ropes and a steering engine. Velocities were adjusted using PID control. Mechanical parts were designed using Solidworks, and manufactured by 3D-printing/laser cutting.
 
