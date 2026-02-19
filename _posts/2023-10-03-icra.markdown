@@ -6,7 +6,7 @@ image: /images/2023icra.gif
 categories: research
 authors: "<strong>Yikai Wang</strong>, Mengdi Xu, Guanya Shi, Ding Zhao"
 venue: "IEEE International Automated Vehicle Validation Conference (IAVVC), 2024"
-workshop: "Best Paper Award – Innovation"
+workshop: "<span style='color: orange'>Best Paper Award – Innovation</span>"
 
 website: https://sites.google.com/view/guardians-as-you-fall/
 arxiv: https://arxiv.org/abs/2310.04828
