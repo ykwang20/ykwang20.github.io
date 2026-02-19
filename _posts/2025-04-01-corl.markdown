@@ -4,7 +4,7 @@ title:  "LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing"
 date:   2025-04-01 21:21:53 +00:00
 image: /images/locotouch.gif
 categories: research
-authors: "Changyi Lin, Yuxin Ray Song, Boda Huo, Mingyang Yu, <strong>Yikai Wang</strong>*, Shiqi Liu,"
+authors: "Changyi Lin, Yuxin Ray Song, Boda Huo, Mingyang Yu, <strong>Yikai Wang</strong>, Shiqi Liu,"
 venue: "CoRL 2025"
 
 website: https://linchangyi1.github.io/LocoTouch/
