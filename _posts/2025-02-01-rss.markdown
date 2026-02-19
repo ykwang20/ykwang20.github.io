@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining"
+date:   2025-02-01 21:21:53 +00:00
+image: /images/locoman.gif
+categories: research
+authors: "Yaru Niu*, Yunzhe Zhang*, Mingyang Yu, Changyi Lin, Chenhao Li, <strong>Yikai Wang</strong>, Yuxiang Yang, Wenhao Yu, Tingnan Zhang, Zhenzhen Li, Jonathan Francis, Bingqing Chen, Jie Tan, Ding Zhao"
+venue: "RSS 2025"
+
+website: https://human2bots.github.io/
+arxiv: https://arxiv.org/abs/2506.16475
+code: https://github.com/chrisyrniu/Human2LocoMan
+video: youtube.com/watch?v=ay_-z9M18p0&feature=youtu.be
+finished: True
+---
+Human2LocoMan is a unified framework for collecting human demonstrations and teleoperated robot whole-body motions, along with cross-embodiment policy learning for versatile quadrupedal manipulation. 
+
+I wrote a paper describing the details of a family of RGBD cameras, ASICs and algorithms produced by Intel. It was submitted and accepted to CCD 2017, a CVPR 2017 Workshop. My coauthors were all senior management at Intel and the paper was written to inform the academic community of issues, challenges and priorities in building stereoscopic depth cameras for production use. We highlight state-of-the-art performance on modern datasets, on certain metrics, along with establishing baselines for new datasets and evaluation metrics for depth cameras in general. 
+
