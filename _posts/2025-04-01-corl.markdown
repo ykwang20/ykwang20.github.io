@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing"
+date:   2025-04-01 21:21:53 +00:00
+image: /images/locotouch.gif
+categories: research
+authors: "Changyi Lin, Yuxin Ray Song, Boda Huo, Mingyang Yu, <strong>Yikai Wang</strong>*, Shiqi Liu,"
+venue: "CoRL 2025"
+
+website: https://linchangyi1.github.io/LocoTouch/
+arxiv: https://arxiv.org/abs/2505.23175
+code: https://github.com/linchangyi1/LocoTouch
+video: https://www.youtube.com/watch?v=pLm9gaQ1JXo
+finished: True
+---
+Equipped with a high-density distributed tactile sensor, our quadrupedal robot can transport everyday objects without mounting or strapping. The transport policy achieves zero-shot sim-to-real transfer, featuring two task-agnostic components: high-fidelity tactile simulation and robust, symmetric, frequency-adaptive gaits.
+
+I wrote a paper describing the details of a family of RGBD cameras, ASICs and algorithms produced by Intel. It was submitted and accepted to CCD 2017, a CVPR 2017 Workshop. My coauthors were all senior management at Intel and the paper was written to inform the academic community of issues, challenges and priorities in building stereoscopic depth cameras for production use. We highlight state-of-the-art performance on modern datasets, on certain metrics, along with establishing baselines for new datasets and evaluation metrics for depth cameras in general. 
+
