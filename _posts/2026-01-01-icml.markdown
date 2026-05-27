@@ -15,7 +15,7 @@ arxiv: https://arxiv.org/abs/2603.03741
 # video: https://www.youtube.com/watch?v=jq7xx9Fusd8&feature=youtu.be
 finished: True
 ---
-APEX enables adaptive humanoid traversal of high platforms via contact-rich climbing and a unified multi-skill policy. Leveraging a ratchet progress reward and LiDAR-based perception, the system adapts its behaviors to terrain geometry and approach conditions, achieving zero-shot sim-to-real traversal of 0.8 m (114% of leg length) platforms on a 29-DoF humanoid.
+Heterogeneous-agent Lyapunov policy optimization (HALyPO) establishes formal stability directly in the policy-parameter space by enforcing a per-step Lyapunov decrease condition on a parameter-space disagreement metric.
 
 I wrote a paper describing the details of a family of RGBD cameras, ASICs and algorithms produced by Intel. It was submitted and accepted to CCD 2017, a CVPR 2017 Workshop. My coauthors were all senior management at Intel and the paper was written to inform the academic community of issues, challenges and priorities in building stereoscopic depth cameras for production use. We highlight state-of-the-art performance on modern datasets, on certain metrics, along with establishing baselines for new datasets and evaluation metrics for depth cameras in general. 
 
