@@ -2,7 +2,7 @@
 layout: post
 title:  "APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots"
 date:   2026-02-01 21:21:53 +00:00
-image: /images/cover_AB.png
+image: /images/highlights-copy.gif
 categories: research
 authors: "<strong>Yikai Wang</strong>*, Tingxuan Leng*, Changyi Lin*, Shiqi Liu, Shir Simon, Bingqing Chen, Jonathan Francis, Ding Zhao"
 venue: "Under Review"
