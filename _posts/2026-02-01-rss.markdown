@@ -5,7 +5,7 @@ date:   2026-02-01 21:21:53 +00:00
 image: /images/highlights-copy.gif
 categories: research
 authors: "<strong>Yikai Wang</strong>*, Tingxuan Leng*, Changyi Lin*, Shiqi Liu, Shir Simon, Bingqing Chen, Jonathan Francis, Ding Zhao"
-venue: "Under Review"
+venue: "IROS 2026"
 
 website: https://apex-humanoid.github.io/
 arxiv: https://arxiv.org/abs/2602.11143
