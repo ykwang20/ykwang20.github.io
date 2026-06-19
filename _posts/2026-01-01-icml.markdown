@@ -9,7 +9,7 @@ venue: "ICML 2026"
 workshop: "<span style='color: orange'>Oral Presentation (top 0.7%)</span>"
 
 
-website: https://haozhang-thu.github.io/HALyPO/
+website: https://haozhang-thu.github.io/HALO/
 arxiv: https://arxiv.org/abs/2603.03741
 # code: https://github.com/ykwang20/Guardians_as_You_Fall
 # video: https://www.youtube.com/watch?v=jq7xx9Fusd8&feature=youtu.be
