@@ -1,0 +1,13 @@
+---
+layout: post
+title: "KPI: A Promptable Kernel for Physical Interaction on Humanoids"
+date: 2026-09-27 00:00:00 +00:00
+image: /images/kpi-overview.png
+categories: research
+authors: "<strong>Yikai Wang</strong>, Honghao Zhu, Xiao Hu, Hao Zhang, Zelin Wang, Yip Fun Yeung, Ding Zhao, Lingfeng Sun"
+venue: "Preprint, 2026"
+paper: https://kpi-robot.github.io/assets/kpi-paper.pdf
+website: https://kpi-robot.github.io/
+finished: True
+---
+KPI makes physical interaction promptable through an explicit interaction contract and online adaptation of the arm controller, while leaving the whole-body tracker unmodified. From a single instruction, a vision-language agent specifies both motion and contact behavior to hoist another robot with a winch, open a door, and carry a box.
