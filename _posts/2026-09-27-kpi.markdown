@@ -10,4 +10,4 @@ paper: https://kpi-robot.github.io/assets/kpi-paper.pdf
 website: https://kpi-robot.github.io/
 finished: True
 ---
-KPI makes physical interaction promptable through an explicit interaction contract and online adaptation of the arm controller, while leaving the whole-body tracker unmodified. From a single instruction, a vision-language agent specifies both motion and contact behavior to hoist another robot with a winch, open a door, and carry a box.
+KPI is a general real-time interaction kernel on top of a humanoid whole-body tracker, unlocking diverse contact-rich loco-manipulation while preserving general-purpose tracking. Paired with a powerful agent such as GPT-6 Astra, it turns high-level instructions into physical interaction.
